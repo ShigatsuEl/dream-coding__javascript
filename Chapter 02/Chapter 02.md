@@ -1,6 +1,6 @@
 # Chapter 02
 
-## 자바스크립트2. 콘솔에 출력, script async 와 defer의 차이점 및 앞으로 자바스크립트 공부 방향
+## 자바스크립트 2. 콘솔에 출력, script async 와 defer의 차이점 및 앞으로 자바스크립트 공부 방향
 
 1. html 파일에 js파일을 import하는 가장 효율적인 방법
 

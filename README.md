@@ -25,3 +25,7 @@ ShigatsuTube Clone을 진행하면서 자바스크립트에 대한 기초가 많
 |   11    |                                                                                                            |          |
 |   12    |                                                                                                            |          |
 |   13    |                                                                                                            |          |
+
+<br>
+
+이 글은 유튜브 [드림코딩 by 엘리 채널](https://www.youtube.com/watch?v=wcsVjmHrUQg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2)을 통해 리뷰를 작성한 것이며 어떠한 상업적 목적으로도 사용되지 않았습니다. 추후 문제가 되는 점이 있으면 댓글을 통해 남겨주시면 수정하겠습니다 :)

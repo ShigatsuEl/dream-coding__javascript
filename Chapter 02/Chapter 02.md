@@ -51,4 +51,4 @@ cf) 자바스크립트의 공식 사이트는 EcmaScript이다. 들어가보면 
 굉장히 자세하게 나와있으며 예제까지 첨부되어있다. 한글번역도 되어있는 갓갓사이트;;<br>
 w3schools는 노르웨이의 한 회사가 만든 사이트이며 공식사이트가 아니다. 또한 MDN이랑 비교해봤을 시 예제도 압도적으로 많으며 최신정보도 빠르게 업데이트되므로 MDN을 자주 애용하도록 하자!<br><br>
 
-이 글은 [유튜브 드림코딩 by 엘리 채널](https://www.youtube.com/watch?v=tJieVCgGzhs&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=2)을 통해 리뷰를 작성한 것이며 어떠한 상업적 목적으로도 사용되지 않았습니다. 추후 문제가 되는 점이 있으면 댓글을 통해 남겨주시면 수정하겠습니다 :)
+이 글은 [유튜브 드림코딩 by 엘리 채널](https://www.youtube.com/watch?v=tJieVCgGzhs&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=2)을 통해 리뷰를 작성한 것이며 어떠한 상업적 목적으로도 사용되지 않았습니다. 추후 문제가 되는 점을 발견하시면 댓글을 통해 남겨주시는대로 수정하겠습니다 :)

@@ -143,4 +143,4 @@ pending 상태가 정상적으로 끝나면 -> `fulfilled`상태가 됩니다.<b
    ```
 
 이번 강의는 여기서 마무리입니다 :)<br><br>
-이 글은 [유튜브 드림코딩 by 엘리 채널](https://www.youtube.com/watch?v=JB_yU6Oe2eE&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=12)을 통해 리뷰를 작성한 것이며 어떠한 상업적 목적으로도 사용되지 않았습니다. 추후 문제가 되는 점이 있으면 댓글을 통해 남겨주시면 수정하겠습니다 :)
+이 글은 [유튜브 드림코딩 by 엘리 채널](https://www.youtube.com/watch?v=JB_yU6Oe2eE&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=12)을 통해 리뷰를 작성한 것이며 어떠한 상업적 목적으로도 사용되지 않았습니다. 추후 문제가 되는 점을 발견하시면 댓글을 통해 남겨주시는대로 수정하겠습니다 :)

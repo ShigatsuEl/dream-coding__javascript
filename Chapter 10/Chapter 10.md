@@ -163,4 +163,4 @@ JSON 파일로 변환할 것인지 그리고 다른 하나는 Serialize 된 JSON
      (유효한 JSON인지 검사해주는 사이트)
 
 이번 강의는 여기서 마무리 입니다:)<br><br>
-이 글은 [유튜브 드림코딩 by 엘리 채널](https://www.youtube.com/watch?v=FN_D4Ihs3LE&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=10)을 통해 리뷰를 작성한 것이며 어떠한 상업적 목적으로도 사용되지 않았습니다. 추후 문제가 되는 점이 있으면 댓글을 통해 남겨주시면 수정하겠습니다 :)
+이 글은 [유튜브 드림코딩 by 엘리 채널](https://www.youtube.com/watch?v=FN_D4Ihs3LE&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=10)을 통해 리뷰를 작성한 것이며 어떠한 상업적 목적으로도 사용되지 않았습니다. 추후 문제가 되는 점을 발견하시면 댓글을 통해 남겨주시는대로 수정하겠습니다 :)

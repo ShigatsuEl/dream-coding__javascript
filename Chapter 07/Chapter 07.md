@@ -100,4 +100,4 @@ Object = { key : value };<br><br>
 
 현재 자바스크립트에서는 클래스보단 객체를 더 많이 쓰고 있다고 합니다.<br>하지만 타입스크립트에서는 객체지향프로그래밍에 관한 개념이 중요해지면서 클래스를 많이 이용한다고 하니 잘 이해해 두는 것이 좋을 것 같네요~<br><br>
 이번 강의는 여기서 마무리 입니다:)<br><br>
-이 글은 [유튜브 드림코딩 by 엘리 채널](https://www.youtube.com/watch?v=tJieVCgGzhs&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=7)을 통해 리뷰를 작성한 것이며 어떠한 상업적 목적으로도 사용되지 않았습니다. 추후 문제가 되는 점이 있으면 댓글을 통해 남겨주시면 수정하겠습니다 :)
+이 글은 [유튜브 드림코딩 by 엘리 채널](https://www.youtube.com/watch?v=1Lbr29tzAA8&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=7)을 통해 리뷰를 작성한 것이며 어떠한 상업적 목적으로도 사용되지 않았습니다. 추후 문제가 되는 점이 있으면 댓글을 통해 남겨주시면 수정하겠습니다 :)

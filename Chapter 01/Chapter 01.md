@@ -21,4 +21,4 @@
 
 7. 이제는 V8과 같은 강력한 엔진 덕분에 NodeJS가 탄생하여 백엔드에서 자바스크립트를 구현할 수 있으며 서버를 독자적으로 만들 수 있게 되었다.<br>또한 React Native를 통해 모바일 어플리케이션을 만들 수도 있으며 Electron을 통해 데스크탑 어플리케이션도 자바스크립트로 만들기가 가능해졌다.<br>웹 브라우저는 자바스크립트로 내장된 언어였는데 요즘에는 `Web Assembly`가 탄생하게 되면서 다양한 언어(C, C++, Rust, Go...)들을 통해 어플리케이션을 만드는 것이 가능해졌다.<br>이제는 자바스크립트의 가능성이 무궁무진해진 것이다.<br><br>
 
-이 글은 [유튜브 드림코딩 by 엘리 채널](https://www.youtube.com/watch?v=tJieVCgGzhs&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=1)을 통해 리뷰를 작성한 것이며 어떠한 상업적 목적으로도 사용되지 않았습니다. 추후 문제가 되는 점이 있으면 댓글을 통해 남겨주시면 수정하겠습니다 :)
+이 글은 [유튜브 드림코딩 by 엘리 채널](https://www.youtube.com/watch?v=wcsVjmHrUQg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=1)을 통해 리뷰를 작성한 것이며 어떠한 상업적 목적으로도 사용되지 않았습니다. 추후 문제가 되는 점이 있으면 댓글을 통해 남겨주시면 수정하겠습니다 :)
